@@ -146,4 +146,5 @@ npm run build-serve
 
 ## Link Terkait
 - [Dokumentasi Backend](https://github.com/Isshoo/Mamen_Documentation/tree/Backend)
+- [FE_Mamen](https://github.com/Isshoo/FE_Mamen)
 
