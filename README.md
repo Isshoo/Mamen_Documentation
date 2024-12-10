@@ -13,7 +13,7 @@
 ## API Documentation
 
 ### Endpoint
-[Mamen API](https://bemamen-production.up.railway.app/)
+[https://bemamen-production.up.railway.app/](https://bemamen-production.up.railway.app/)
 
 ---
 
