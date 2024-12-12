@@ -17,7 +17,9 @@
 
 ---
 
-### Get All UMKMs
+### UMKM
+
+#### Get All UMKMs
 
 - URL
   - `/umkms`
@@ -63,7 +65,7 @@
 }
 ```
 
-### Get All Products
+#### Get All Products
 
 - URL
   - `/products`
