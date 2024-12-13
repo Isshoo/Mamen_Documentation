@@ -104,6 +104,43 @@
 }
 ```
 
+#### Get All Reviews
+
+- URL
+  - `/reviews`
+
+- Method
+  - `GET`
+
+- Response
+```json
+{
+  "message": "Success",
+  "data": {
+    "reviews": [
+      {
+        "id": "review-ulkt1iShVaJExBN6",
+        "name": "Mutii",
+        "review": "Mantapp",
+        "user_rating": 4,
+        "date": "2024-11-18T08:19:51.865Z",
+        "umkms_id": "umkm-uiQP-tFCLUqHiRnu",
+        "umkm_name": "Whatsapp Cafe"
+      },
+      {
+        "id": "review-xBDHt-ftDvhnlRSY",
+        "name": "Jekky",
+        "review": "tempat kopi ini mempunyai pemandangan yang sangat bagus dan makanannya juga mempunyai cita rasa yang identik. selain itu saya sangat suka karena kafe ini sesuai dengan hobi saya yaitu bermain basket",
+        "user_rating": 5,
+        "date": "2024-11-26T05:55:09.936Z",
+        "umkms_id": "umkm-AWSfUOFCZMNmkbN4",
+        "umkm_name": "Bucket Coffe"
+      },
+    ]
+  }
+}
+```
+
 ## Link Terkait
 - [Dokumentasi Frontend](https://github.com/Isshoo/Mamen_Documentation/tree/Frontend)
 - [BE_Mamen](https://github.com/Isshoo/BE_Mamen)
